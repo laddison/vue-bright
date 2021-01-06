@@ -13,7 +13,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "clipboard": "2.0.4",
     "driver.js": "0.9.5",
     "file-saver": "2.0.1",
